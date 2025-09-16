@@ -2,7 +2,7 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EvgeniyElisov.github.io/IT-Kamasutra-Sprint1-Home",
+  "homepage": "https://EvgeniyElisov.github.io/IT-Incubator-Sprint1-Home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
